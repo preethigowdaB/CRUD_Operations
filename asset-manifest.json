@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preethigowdaB/CRUD_Operations.git/static/css/main.fbb1fca8.css",
+    "main.js": "/preethigowdaB/CRUD_Operations.git/static/js/main.27b0f01c.js",
+    "static/js/787.e80cea08.chunk.js": "/preethigowdaB/CRUD_Operations.git/static/js/787.e80cea08.chunk.js",
+    "index.html": "/preethigowdaB/CRUD_Operations.git/index.html",
+    "main.fbb1fca8.css.map": "/preethigowdaB/CRUD_Operations.git/static/css/main.fbb1fca8.css.map",
+    "main.27b0f01c.js.map": "/preethigowdaB/CRUD_Operations.git/static/js/main.27b0f01c.js.map",
+    "787.e80cea08.chunk.js.map": "/preethigowdaB/CRUD_Operations.git/static/js/787.e80cea08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb1fca8.css",
+    "static/js/main.27b0f01c.js"
+  ]
+}
