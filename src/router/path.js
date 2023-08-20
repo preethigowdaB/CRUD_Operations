@@ -11,7 +11,7 @@ const Path = () => {
     <div>
       <Router>
         <Routes>
-            <Route path="/preethigowdaB/CRUD_Operations.git" element={<EmployeeList/>}/>
+            <Route path="/" element={<EmployeeList/>}/>
           <Route path="/create" element={<EmployeeCreate/>}/>
           <Route path="/view/:id" element={<EmployeeDetails/>}/>
           <Route path="/edit/:id" element={<EmplyoyeeEdit/>}/>
