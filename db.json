@@ -1,0 +1,58 @@
+{
+  "Employee": [
+    {
+      "name": "ramesh",
+      "email": "ramesh@gmail.com",
+      "phone": "9876543210",
+      "id": 1
+    },
+    {
+      "name": "jhon",
+      "email": "jhon@gmail.com",
+      "phone": "9632184571",
+      "id": 3
+    },
+    {
+      "name": "jhony",
+      "email": "jhony@gmail.com",
+      "phone": "7204887789",
+      "id": 4
+    },
+    {
+      "name": "Mohammed Ali",
+      "email": "mohammed@gmail.com",
+      "phone": "6987458887",
+      "id": 5
+    },
+    {
+      "name": "ayoosh",
+      "email": "ayoosh@gmail.com",
+      "phone": "9875412366",
+      "id": 6
+    },
+    {
+      "name": "George",
+      "email": "georgejhon122@gmail.com",
+      "phone": "8521479632",
+      "id": 7
+    },
+    {
+      "name": "henry",
+      "email": "henrygeorge@gmail.com",
+      "phone": "8754129655",
+      "id": 8
+    },
+    {
+      "name": "mary victory",
+      "email": "mary222@gmail.com",
+      "phone": "9876541230",
+      "id": 9
+    },
+    {
+      "name": "jasper hugo",
+      "email": "jasperhugo132@gmail.com",
+      "phone": "9876541230",
+      "id": 10
+    }
+  ]
+}
